@@ -1638,6 +1638,7 @@ header .header_inner .right-side .header-avatar {
   height: 32px;
   border-radius: 100%;
   margin-left: 15px;
+  object-fit: contain;
 }
 
 .is_fixed {
